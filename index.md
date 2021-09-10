@@ -3,7 +3,7 @@
 
 ## Overview
 
-Breadbot is a new chatterbot framwork at experimental stage which is aimed to simplify the development of chatterbot.
+Breadbot is a new chatbot framwork at experimental stage.
 
 * Open source code & huge amount of corpus
 * Wiki based corpus, easy to read & write
@@ -15,4 +15,4 @@ Breadbot is a new chatterbot framwork at experimental stage which is aimed to si
 * [English corpus](en_corpus/index.md)
 * [Chinese corpus](zh_corpus/index.md)
 
-Download all corpus from "Not Ready"
+Download all corpus from [Here](https://github.com/rdp-studio/breadbot)
